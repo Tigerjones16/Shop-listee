@@ -1,0 +1,20 @@
+{
+  "nextId": 3,
+  "nextNo": 2,
+  "products": [
+    {
+      "id": 1,
+      "no": 1,
+      "name": "Wiper",
+      "category": "",
+      "wholesale": 10,
+      "retail": 20,
+      "img": "/objects/uploads/dbfc0b70-d044-4466-ae2d-21eebf5e1a8e",
+      "inStock": true
+    }
+  ],
+  "settings": {
+    "shopName": "My Shop",
+    "whatsapp": ""
+  }
+}
